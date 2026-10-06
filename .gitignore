@@ -2,5 +2,9 @@ node_modules
 .env
 .env.local
 dist
+<<<<<<< HEAD
 .next
 .gitignore
+=======
+.next
+>>>>>>> 10278d3 (mesta first chang)
